@@ -1,6 +1,6 @@
 ---
 title: About
-image: /img/about-jumbotron.jpg
+image: /img/index_both_column.png
 values:
   - heading: Shade-grown coffee
     imageUrl: /img/about-shade-grown.jpg
